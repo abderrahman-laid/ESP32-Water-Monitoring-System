@@ -49,8 +49,10 @@ The IoT(Hardware) components required are:
     
     
  8. Now connect your components like shown in the following image:
- ![Montage Image](Montage%20ESP32.png)
+ ![Montage Image](Read_me_Media/Montage_ESP32.png)
  9. Upload the sketch by pressing CTRL+U inside the Arduino IDE.
  10. After it being compiled and uploaded, go to the Serial Monitor (CTRL+SHIFT+M) and copy the local ip shown then paste it in the search bar of your browser
  > example: Local IP 192.168.43.155
  11. A page like this will be shown to you and it got the live state of the water level with an additional switch to toggle the water pump (aka motor) on or off:
+ ![Webpage](Read_me_Media/page_overview.png)
+ 

@@ -50,7 +50,7 @@ The IoT(Hardware) components required are:
     
     
  8. Now connect your components like shown in the following image:
- ![Montage](https://raw.githubusercontent.com/abderrahman-laid/ESP32-Water-Monitoring-System/main/Montage%20ESP32.png?token=GHSAT0AAAAAACA4M3B4FEG7PM6N6SHA6OC6ZBLNM6A)
+ ![Montage](https://raw.githubusercontent.com/abderrahman-laid/ESP32-Water-Monitoring-System/main/Montage%20ESP32.png?token=GHSAT0AAAAAACA4M3B4JMYHP5J3V4VTHNBCZBLN32A)
  9. Upload the sketch by pressing CTRL+U inside the Arduino IDE.
  10. After it being compiled and uploaded, go to the Serial Monitor (CTRL+SHIFT+M) and copy the local ip shown then paste it in the search bar of your browser
  > example: Local IP 192.168.43.155

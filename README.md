@@ -26,9 +26,9 @@ The IoT(Hardware) components required are:
         https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 3. You would need to downlaod and install the following libraries using the following steps:
   - **[Adafruit_SSD1306_EMULATOR](https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR)**
-  - **[Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)**
+  - **[Adafruit_GFX_Library](https://github.com/adafruit/Adafruit-GFX-Library)**
   - **[Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)**
-  - **[Web-Sockets](https://www.arduinolibraries.info/libraries/web-sockets)**
+  - **[Web_Sockets](https://www.arduinolibraries.info/libraries/web-sockets)**
   
   - **Now in the Arduino IDE add the downloaded libraries by navigating to
    Sketch > Include Library > Add . ZIP Library**

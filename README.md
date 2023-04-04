@@ -9,13 +9,13 @@ The status of the system could be monitored by a LCD screen or a web page that p
 
 The IoT(Hardware) components required are:
 
-- **ESP32 Development Board**
-- **LCD Screen**
-- **Wifi Modem**
-- **Ultra Sonic Sensor**
-- **5V Power Supply**
-- **5V Relay**
-- **Jumper Wires**
+- **ESP32 Development Board**  **[Buy From Here](https://www.example.com/)**
+- **LCD Screen**  **[Buy From Here](https://www.example.com/)**
+- **Wifi Modem**  **[Buy From Here](https://www.example.com/)**
+- **Ultra Sonic Sensor**  **[Buy From Here](https://www.example.com/)**
+- **5V Power Supply** **[Buy From Here](https://www.example.com/)**
+- **5V Relay**  **[Buy From Here](https://www.example.com/)**
+- **Jumper Wires**  **[Buy From Here](https://www.example.com/)**
 
 ## Getting Started
 

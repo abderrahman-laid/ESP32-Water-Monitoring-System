@@ -17,7 +17,7 @@ The IoT(Hardware) components required are:
 - **5V Relay**  **[Buy From Here](https://www.example.com/)**
 - **Jumper Wires**  **[Buy From Here](https://www.example.com/)**
 
-## Getting Started
+## Tutorial 
 
 1. First you need to install the Arduino IDE software
   - **You can download it from **[Here](https://www.arduino.cc/en/software)****
@@ -55,7 +55,20 @@ The IoT(Hardware) components required are:
  > example: Local IP 192.168.43.155
  11. A page like this will be shown to you and it got the live state of the water level with an additional switch to toggle the water pump (aka motor) on or off:
  ![Webpage](Read_me_Media/page_overview.png)
- - **And Here Are The Different States:**
+ - **And Here Are The Different States:**  
   ![tanks levels](Read_me_Media/water_tanks_states.png)
   ![switch states](Read_me_Media/switches_states.png)
+  - **And Here Is The [Link](https://gist.github.com/abderrahman-laid/691fe1883d8dc185190c1928ff5c9eb2) For The Full Code Used In This Project**
+
+ ## Contribution Guidelines
  
+- Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
+
+- Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.com/blog/1506-closing-issues-via-pull-requests) for more info)
+
+- When you make very very minor changes to a PR of yours (like for example fixing a text in button, minor changes requested by reviewers) make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at [here](https://davidwalsh.name/squash-commits-git))
+
+- When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
+
+- Always create PR to `develop` branch.
+

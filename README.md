@@ -55,4 +55,7 @@ The IoT(Hardware) components required are:
  > example: Local IP 192.168.43.155
  11. A page like this will be shown to you and it got the live state of the water level with an additional switch to toggle the water pump (aka motor) on or off:
  ![Webpage](Read_me_Media/page_overview.png)
+ - **And Here Are The Different States:**
+  ![tanks levels](Read_me_Media/water_tanks_states.png)
+  ![switch states](Read_me_Media/switches_states.png)
  

@@ -1,5 +1,5 @@
 # ESP32 Water Monitoring System
-![first-timers-difficulty](https://img.shields.io/badge/First--Timers--Difficulty-friendly-green.svg?logo=github) ![License](https://img.shields.io/badge/License-Open--Source-blue.svg?logo=github)
+![first%20timers%20difficulty](https://img.shields.io/badge/First%20Timers%20Difficulty-friendly-green.svg?logo=github) ![License](https://img.shields.io/badge/License-Open--Source-blue.svg?logo=github)
 
 ESP32 Water Monitoring System is an IoT based Liquid Level Monitoring system that has the mechanism to keep the user alerted in case of liquid overflow or when tank depletes. The water tanks can be fixed with ultrasonic sensors that is placed over the container. Ultrasonic sensor is used to measure, compare container depth and liquid level.
 
@@ -9,13 +9,13 @@ The status of the system could be monitored by a LCD screen or a web page that p
 
 The IoT(Hardware) components required are:
 
-- **ESP32 Development Board**  **[Buy From Here](https://www.example.com/)**
-- **LCD Screen**  **[Buy From Here](https://www.example.com/)**
-- **Wifi Modem**  **[Buy From Here](https://www.example.com/)**
-- **Ultra Sonic Sensor**  **[Buy From Here](https://www.example.com/)**
-- **5V Power Supply** **[Buy From Here](https://www.example.com/)**
-- **5V Relay**  **[Buy From Here](https://www.example.com/)**
-- **Jumper Wires**  **[Buy From Here](https://www.example.com/)**
+- **ESP32 Development Board**  **[Buy](https://s.click.aliexpress.com/e/_Dkkvi01)**
+- **LCD Screen**  **[Buy](https://s.click.aliexpress.com/e/_DlE2a29)**
+- **Wifi Modem**  **[Buy](https://s.click.aliexpress.com/e/_DdWTfNJ)**
+- **Ultra Sonic Sensor**  **[Buy](https://s.click.aliexpress.com/e/_DB99tit)**
+- **5V Power Supply** **[Buy](https://s.click.aliexpress.com/e/_DBFq3iv)**
+- **5V Relay**  **[Buy](https://s.click.aliexpress.com/e/_DldIIi9)**
+- **Jumper Wires**  **[Buy](https://s.click.aliexpress.com/e/_DF6aV8H)**
 
 ## Tutorial 
 

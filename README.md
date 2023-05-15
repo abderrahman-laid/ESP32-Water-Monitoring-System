@@ -3,7 +3,7 @@
 
 ESP32 Water Monitoring System is an IoT based Liquid Level Monitoring system that has the mechanism to keep the user alerted in case of liquid overflow or when tank depletes. The water tanks can be fixed with ultrasonic sensors that is placed over the container. Ultrasonic sensor is used to measure, compare container depth and liquid level.
 
-The status of the system could be monitored by a LCD screen or a web page that provides a brilliant graphical representation. Colors are used to depict various scenarios with respect to the amount of liquid in the tanks or containers
+The status of the system could be monitored by an LCD screen or a web page that provides a brilliant graphical representation. Colors are used to depict various scenarios with respect to the amount of liquid in the tanks or containers
 
 > note that this is just the  version 1.0 of this project so more added featutres are on the way
 

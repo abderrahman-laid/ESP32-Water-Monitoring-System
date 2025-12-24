@@ -9,7 +9,7 @@ The status of the system could be monitored by an LCD screen or a web page that 
 
 The IoT(Hardware) components required are:
 
-- **ESP32 Development Board**  **[Buy](https://s.click.aliexpress.com/e/_Dkkvi01)**
+- **ESP32 Development Board**  **[Buy]( https://s.click.aliexpress.com/e/_c37kgVDT)**
 - **LCD Screen**  **[Buy](https://s.click.aliexpress.com/e/_DlE2a29)**
 - **Wifi Modem**  **[Buy](https://s.click.aliexpress.com/e/_DdWTfNJ)**
 - **Ultra Sonic Sensor**  **[Buy](https://s.click.aliexpress.com/e/_DB99tit)**

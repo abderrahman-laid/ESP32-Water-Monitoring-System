@@ -9,13 +9,13 @@ The status of the system could be monitored by an LCD screen or a web page that 
 
 The IoT(Hardware) components required are:
 
-- **ESP32 Development Board**  **[Buy]( https://s.click.aliexpress.com/e/_c37kgVDT)**
-- **LCD Screen**  **[Buy](https://s.click.aliexpress.com/e/_c4pVKiul)**
-- **Wifi Modem**  **[Buy](https://s.click.aliexpress.com/e/_c3TOhslX)**
-- **Ultra Sonic Sensor**  **[Buy](https://s.click.aliexpress.com/e/_c4l3ZwjL)**
-- **5V Power Supply** **[Buy](https://s.click.aliexpress.com/e/_c4cBu64H)**
-- **5V Relay**  **[Buy](https://s.click.aliexpress.com/e/_c354Tl7R)**
-- **Jumper Wires**  **[Buy](https://s.click.aliexpress.com/e/_c3aehMnx)**
+- **ESP32 Development Board**  **[Buy](https://s.click.aliexpress.com/e/_c3gN1m1B)**
+- **LCD Screen**  **[Buy](https://s.click.aliexpress.com/e/_c4NoKLnX)**
+- **Wifi Modem**  **[Buy](https://s.click.aliexpress.com/e/_c4byLZxn)**
+- **Ultra Sonic Sensor**  **[Buy](https://s.click.aliexpress.com/e/_c3EmvBMD)**
+- **5V Power Supply** **[Buy](https://s.click.aliexpress.com/e/_c3vPpPMv)**
+- **5V Relay**  **[Buy](https://s.click.aliexpress.com/e/_c4djSJfB)**
+- **Jumper Wires**  **[Buy](https://s.click.aliexpress.com/e/_c4NJCOUd)**
 
 ## Tutorial 
 
